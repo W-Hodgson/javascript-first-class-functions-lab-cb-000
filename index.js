@@ -5,3 +5,5 @@ function countdown(callback) {
 function createMultiplier(multiplierValue) {
   return (val) { val * multiplerValue }
 }
+
+var doubler = createMultiplier(2)
