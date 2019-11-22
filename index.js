@@ -1,4 +1,3 @@
 function countdown(callback) {
 
-
 }
